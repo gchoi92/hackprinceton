@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = hackprinceton:main
+      [console_scripts]
+      initialize_HackPrinceton_db = hackprinceton.scripts.initializedb:main
+      
